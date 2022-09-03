@@ -9,5 +9,8 @@
         <module name="core_java_reading_notes" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="core_java_reading_notes" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,7 +1,538 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e5e808a-cbe6-4839-aef3-bb24bf33fae8" name="Default Changelist" comment="" />
+    <list default="true" id="6014f96f-1355-48e6-82f3-941413002c30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/corejava/gutenberg/alice30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/gutenberg/crsto10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch02/FXImageViewer/ImageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch02/FXImageViewer/cay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch02/FXImageViewer/duke.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch02/ImageViewer/ImageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch02/ImageViewer/cay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch02/ImageViewer/cup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch02/ImageViewer/duke.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch02/Welcome/Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch03/BigIntegerTest/BigIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch03/CompoundInterest/CompoundInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch03/FirstSample/FirstSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch03/InputTest/InputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch03/LotteryArray/LotteryArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch03/LotteryDrawing/LotteryDrawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch03/LotteryOdds/LotteryOdds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch03/Retirement/Retirement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch03/Retirement2/Retirement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch04/CalendarTest/CalendarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch04/ConstructorTest/ConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch04/EmployeeTest/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch04/PackageTest/PackageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch04/PackageTest/com/horstmann/corejava/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch04/ParamTest/ParamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch04/StaticTest/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/abstractClasses/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/abstractClasses/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/abstractClasses/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/abstractClasses/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/arrayList/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/arrayList/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/arrays/CopyOfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/corejava/title.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/enums/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/equals/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/equals/EqualsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/equals/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/inheritance/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/inheritance/ManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/methods/MethodTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/objectAnalyzer/ObjectAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/objectAnalyzer/ObjectAnalyzerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/reflection/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/resources/ResourceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/resources/ResourceTest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/resources/about.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch05/resources/data/about.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/META-INF/services/serviceLoader.Cipher" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/anonymousInnerClass/AnonymousInnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/clone/CloneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/clone/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/innerClass/InnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/interfaces/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/interfaces/EmployeeSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/lambda/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/localInnerClass/LocalInnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/proxy/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/serviceLoader/Cipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/serviceLoader/ServiceLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/serviceLoader/impl/CaesarCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/staticInnerClass/StaticInnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch06/timer/TimerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch07/cay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch07/cup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch07/duke.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch07/except/ExceptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch07/exceptional/ExceptionalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch07/logging/LoggingImageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch07/loggingfx/LoggingImageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch07/stackTrace/StackTraceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch08/genericAlgorithms/GenericAlgorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch08/genericAlgorithms/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch08/genericReflection/GenericReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch08/genericReflection/TypeLiterals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch08/limitations/DefeatCheckedExceptionChecking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch08/limitations/NoGenericArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch08/pair1/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch08/pair1/PairTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch08/pair2/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch08/pair2/PairTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch08/pair3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch08/pair3/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch08/pair3/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch08/pair3/PairTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/cay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/circularArrayQueue/CircularArrayQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/cup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/duke.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/linkedList/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/map/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/map/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/priorityQueue/PriorityQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/properties/ImageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/set/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/shuffle/ShuffleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/sieve/Sieve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/sieve/sieve.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/treeSet/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch09/treeSet/TreeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/action/ActionFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/action/ActionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/blue-ball.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/button/ButtonFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/button/ButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/cay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/cup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/draw/DrawTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/duke.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/font/FontTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/listFonts/ListFonts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/mouse/MouseComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/mouse/MouseFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/mouse/MouseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/notHelloWorld/NotHelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/preferences/ImageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/red-ball.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/simpleFrame/SimpleFrameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/sizedFrame/SizedFrameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch10/yellow-ball.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/ace.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/blue-ball.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/border/BorderFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/border/BorderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/calculator/CalculatorFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/calculator/CalculatorPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/checkBox/CheckBoxFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/checkBox/CheckBoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/circleLayout/CircleLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/circleLayout/CircleLayoutFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/circleLayout/CircleLayoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/comboBox/ComboBoxFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/comboBox/ComboBoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/copy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/cut.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/dataExchange/DataExchangeFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/dataExchange/DataExchangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/dataExchange/PasswordChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/dataExchange/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/dialog/AboutDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/dialog/DialogFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/dialog/DialogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/exit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/fileChooser/FileChooserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/fileChooser/FileIconView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/fileChooser/ImagePreviewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/fileChooser/ImageViewerFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/gridbag/FontFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/gridbag/GBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/gridbag/GridBagLayoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/image/ImageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/jack.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/king.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/menu/MenuFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/menu/MenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/nine.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/optionDialog/ButtonPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/optionDialog/OptionDialogFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/optionDialog/OptionDialogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/palette.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/paste.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/queen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/radioButton/RadioButtonFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/radioButton/RadioButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/red-ball.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/slider/SliderFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/slider/SliderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/ten.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/text/TextComponentFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/text/TextComponentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/toolBar/ToolBarFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/toolBar/ToolBarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch11/yellow-ball.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/blockingQueue/BlockingQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/completableFutures/CompletableFutureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/concurrentHashMap/CHMDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/executors/ExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/forkJoin/ForkJoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/process/ReadDir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/swingWorker/SwingWorkerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/synch/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/synch/SynchBankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/synch2/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/synch2/SynchBankTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/threads/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/threads/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/unsynch/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch12/unsynch/UnsynchBankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/binding/BindingDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/binding/BindingDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/binding/BindingDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/choices/ChoiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/css/CSSDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/css/dialog.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/css/metal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/css/scene1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/css/scene2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/dialogs/DialogDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/dialogs/bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/draw/DrawTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/event/EventTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/fancy/FancyControls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/fancy/moonlanding.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/font/FontTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/font/world.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/fxml/FXMLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/fxml/dialog.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/gridPane/GridPaneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/menu/MenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/menu/copy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/menu/cut.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/menu/help.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/menu/options.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/menu/paste.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/mouse/MouseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/notHelloWorld/NotHelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/text/TextControlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v1ch13fx/uitask/TaskDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch01/cities.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch01/collecting/CollectingIntoMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch01/collecting/CollectingResults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch01/collecting/DownstreamCollectors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch01/optional/OptionalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch01/parallel/ParallelStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch01/streams/CountLongWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch01/streams/CreatingStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch01/streams/PrimitiveTypeStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/employee.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/employee2.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/employee3.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/findDirectories/FindDirectories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/match/HrefMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/memoryMap/MemoryMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/memoryMap/MemoryMapTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/objectStream/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/objectStream/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/objectStream/ObjectStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/objectStream/employee.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/randomAccess/DataIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/randomAccess/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/randomAccess/RandomAccessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/randomAccess2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/randomAccess2/RandomAccessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/regex/RegexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/serialClone/SerialCloneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/textFile/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/textFile/TextFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/textFile/employee.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch02/zip/ZipTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/dom/JSONConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/dom/server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/drawing1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/drawing2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/fontdialog-schema.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/fontdialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/gridbag.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/gridbag.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/read/GridBagPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/read/GridBagTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/read/XMLReadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/read/config-schema.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/read/config.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/read/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/read/config.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/read/objects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/sax/SAXTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/stax/StAXTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/transform/TransformTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/transform/employee.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/transform/makehtml.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/transform/makeprop.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/write/RectangleComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/write/XMLWriteFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/write/XMLWriteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/xpath/XPathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/xpath/bugs.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/xpath/catalog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/xpath/fontdialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/xpath/gridbag.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/xpath/xhtml-lat1.ent" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/xpath/xhtml-special.ent" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/xpath/xhtml-symbol.ent" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch03/xpath/xhtml1-strict.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/client/HttpClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/client/cup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/client/fileupload.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/client/json.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/client/post.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/inetAddress/InetAddressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/interruptible/InterruptibleSocketTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/mail/MailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/mail/mail.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/mail/message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/post/PostTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/post/post.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/server/EchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/socket/SocketTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/threaded/ThreadedEchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch04/urlConnection/URLConnectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch05/Authors.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch05/Books.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch05/BooksAuthors.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch05/Publishers.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch05/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch05/exec/ExecSQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch05/query/QueryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch05/test/TestDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch05/view/ViewDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch06/formatting/Formatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch06/localdates/LocalDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch06/timeline/Timeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch06/zonedTimes/ZonedTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/collation/CollationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/collation/EnumCombo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/collation/GBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/dateFormat/DateTimeFormatterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/dateFormat/EnumCombo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/dateFormat/GBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/numberFormat/GBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/numberFormat/NumberFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/retire/GBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/retire/LocaleCombo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/retire/Retire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/retire/RetireResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/retire/RetireResources_de.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/retire/RetireResources_zh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/retire/RetireStrings.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/retire/RetireStrings_de.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch07/retire/RetireStrings_zh.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/buttons1/ButtonFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/buttons1/Renjin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/buttons1/groovy.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/buttons1/init.Renjin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/buttons1/init.sisc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/buttons1/nashorn.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/buttons1/sisc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/buttons2/ButtonFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/buttons2/action.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/buttons3/ButtonFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/buttons3/ButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/bytecodeAnnotations/EntryLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/bytecodeAnnotations/EntryLoggingAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/bytecodeAnnotations/EntryLoggingAgent.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/bytecodeAnnotations/LogEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/compiler/ByteArrayClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/compiler/ByteArrayClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/compiler/ByteArrayJavaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/compiler/CompilerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/compiler/MapClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/compiler/StringBuilderJavaSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/compiler/StringSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/rect/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/rect/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/rect/SourceLevelAnnotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/runtimeAnnotations/ActionListenerFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/runtimeAnnotations/ActionListenerInstaller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/script/ScriptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/set/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/set/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/sourceAnnotations/ToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/sourceAnnotations/ToStringAnnotationProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch08/sourceAnnotations/ToStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/com.horstmann.greet/com/horstmann/greet/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/com.horstmann.greet/com/horstmann/greet/internal/GreeterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/com.horstmann.greet/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/com.horstmann.greetsvc/com/horstmann/greetsvc/GreeterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/com.horstmann.greetsvc/com/horstmann/greetsvc/internal/FrenchGreeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/com.horstmann.greetsvc/com/horstmann/greetsvc/internal/GermanGreeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/com.horstmann.greetsvc/com/horstmann/greetsvc/internal/GermanGreeterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/com.horstmann.greetsvc/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/com.horstmann.util/com/horstmann/util/ObjectAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/com.horstmann.util/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/countries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.automod/com/horstmann/places/CSVDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.automod/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.exportedpkg/com/horstmann/hello/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.exportedpkg/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.hellomod/com/horstmann/hello/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.hellomod/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.openpkg/com/horstmann/places/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.openpkg/com/horstmann/places/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.openpkg/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.openpkg2/com/horstmann/places/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.openpkg2/com/horstmann/places/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.openpkg2/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.openpkg3/com/horstmann/places/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.openpkg3/com/horstmann/places/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.openpkg3/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.openpkg4/com/horstmann/places/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.openpkg4/com/horstmann/places/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.openpkg4/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.requiremod/com/horstmann/hello/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.requiremod/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.useservice/com/horstmann/hello/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch09/v2ch09.useservice/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/Calculator.caesar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/CalculatorFrame.caesar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/CalculatorPanel$1.caesar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/CalculatorPanel$CommandAction.caesar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/CalculatorPanel$InsertAction.caesar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/CalculatorPanel.caesar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/aes/AESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/aes/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/auth/AuthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/auth/AuthTest.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/auth/SysPropAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/auth/jaas.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/classLoader/Caesar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/classLoader/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/classLoader/GBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/hash/Digest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/hash/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/jaas/JAASFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/jaas/JAASTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/jaas/JAASTest.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/jaas/SimpleCallbackHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/jaas/SimpleLoginModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/jaas/SimplePrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/jaas/SysPropAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/jaas/jaas.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/jaas/password.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/permissions/PermissionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/permissions/PermissionTest.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/permissions/WordCheckPermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/rsa/RSATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/rsa/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/signed/FileReadApplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/verifier/VerifierTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch10/verifier/VerifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/book/Banner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/book/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/book/BookTestFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/book/PrintPreviewCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/book/PrintPreviewDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/cj2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/cj8v2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/clouds.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/composite/CompositeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/composite/CompositeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/composite/CompositeTestFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/composite/Rule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/imageIO/ImageIOFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/imageIO/ImageIOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/imageIO/e-mail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/imageProcessing/ImageProcessingFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/imageProcessing/ImageProcessingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/print/PrintComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/print/PrintTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/print/PrintTestFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/printService/PrintServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/rasterImage/RasterImageFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/rasterImage/RasterImageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/shape/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/stroke/StrokeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/table/TableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/ColorTableCellEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/ColorTableCellRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/Earth.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/Jupiter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/Mars.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/Mercury.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/Moons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/Neptune.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/PlanetTableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/Pluto.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/Saturn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/TableCellRenderFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/TableCellRenderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/Uranus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableCellRender/Venus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableModel/InvestmentTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableRowColumn/Earth.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableRowColumn/Jupiter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableRowColumn/Mars.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableRowColumn/Mercury.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableRowColumn/Neptune.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableRowColumn/PlanetTableFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableRowColumn/Pluto.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableRowColumn/Saturn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableRowColumn/TableRowColumnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableRowColumn/Uranus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tableRowColumn/Venus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tree/SimpleTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/tree/SimpleTreeFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/treeEdit/TreeEditFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/treeEdit/TreeEditTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/treeModel/ObjectInspectorFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/treeModel/ObjectInspectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/treeModel/ObjectTreeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/treeModel/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/treeRender/ClassNameTreeCellRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/treeRender/ClassTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/treeRender/ClassTreeFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/treeRender/blue-ball.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/treeRender/red-ball.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch11/treeRender/yellow-ball.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/employee/Employee.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/employee/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/helloNative/HelloNative.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/helloNative/HelloNative.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/helloNative/HelloNative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/helloNative/HelloNativeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/invocation/InvocationTest.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/invocation/Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/printf1/Printf1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/printf1/Printf1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/printf1/Printf1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/printf2/Printf2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/printf2/Printf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/printf2/Printf2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/printf3/Printf3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/printf3/Printf3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/printf3/Printf3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/printf4/Printf4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/printf4/Printf4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/printf4/Printf4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/win32reg/Win32RegKey.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/win32reg/Win32RegKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/v2ch12/win32reg/Win32RegKeyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/《Java核心技术》.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/《Java核心技术卷1》.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/《Java核心技术卷2》.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/第01章-Java程序设计概述.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/第07章-异常、断言和日志.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v1ch02/Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/《Java核心技术卷1》笔记.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,10 +552,20 @@
     <expand />
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1w8CxFUHV1JLKF85hbrtSFYshjq" />
+  <component name="ProjectId" id="20lZgdm2QFhhkZkCXWE6dFd9TmT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenModules" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,24 +573,128 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/v1ch01" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\core_java_reading_notes\src\main\java\v1ch01" />
+      <recent name="C:\GitHub\core_java_reading_notes" />
+      <recent name="C:\GitHub\core_java_reading_notes\src\main\java" />
+      <recent name="C:\GitHub\core_java_reading_notes\images" />
+      <recent name="C:\GitHub\core_java_reading_notes\notes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Welcome (1)">
+    <configuration name="Welcome (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch01.Welcome" />
+      <module name="core_java_reading_notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v1ch01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Welcome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch02.Welcome" />
+      <module name="core_java_reading_notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v1ch02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Welcome (1)" />
+        <item itemvalue="Application.Welcome" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7e5e808a-cbe6-4839-aef3-bb24bf33fae8" name="Default Changelist" comment="" />
-      <created>1627831072464</created>
+      <changelist id="6014f96f-1355-48e6-82f3-941413002c30" name="Default Changelist" comment="" />
+      <created>1636621246996</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1627831072464</updated>
+      <updated>1636621246996</updated>
+      <workItem from="1636621249718" duration="2160000" />
+      <workItem from="1637237129894" duration="599000" />
+      <workItem from="1637637133478" duration="613000" />
+      <workItem from="1637749890198" duration="2557000" />
+      <workItem from="1638240591327" duration="56000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1637751445050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1637751445050" />
+    <state x="806" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1637751600280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637751600280" />
+    <state x="540" y="175" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1637751598400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1637751598400" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636621951236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636621951236" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1638240632107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1638240632107" />
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom" timestamp="1637762575592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1637762575592" />
+    <state width="1877" height="195" key="GridCell.Tab.0.center" timestamp="1637762575592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1637762575592" />
+    <state width="1877" height="195" key="GridCell.Tab.0.left" timestamp="1637762575592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1637762575592" />
+    <state width="1877" height="195" key="GridCell.Tab.0.right" timestamp="1637762575592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1637762575592" />
+    <state x="551" y="215" key="new project wizard" timestamp="1638240645528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1638240645528" />
   </component>
 </project>
